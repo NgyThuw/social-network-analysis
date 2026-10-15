@@ -28,6 +28,14 @@ Xây dựng và quản lý cơ sở dữ liệu đồ thị phục vụ việc p
 
 6\. Kiểm tra tính đúng đắn của dữ liệu sau khi nhập.
 
+7\. Thực hiện export dữ liệu hoặc kết quả truy vấn.
+
+8\. Thực hiện backup và restore Database, kiểm tra dữ liệu sau khi khôi phục.
+
+9\. Chuẩn bị các truy vấn cơ bản và nâng cao chạy trực tiếp trên Memgraph Lab.
+
+10\. Lưu lại kết quả truy vấn, ảnh chụp và hướng dẫn thực hiện.
+
 
 
 \## Mô hình dữ liệu dự kiến
@@ -72,8 +80,6 @@ Quan hệ được xem là hai chiều đối với bộ dữ liệu kết nối
 
 \## Sản phẩm bàn giao
 
-
-
 \- Hướng dẫn cài đặt và chạy Memgraph.
 
 \- Script nhập dữ liệu.
@@ -84,13 +90,10 @@ Quan hệ được xem là hai chiều đối với bộ dữ liệu kết nối
 
 \- Kết quả kiểm tra dữ liệu và ảnh chụp từ Memgraph Lab.
 
+\- Hướng dẫn import và export dữ liệu.
 
+\- Quy trình backup và restore kèm kết quả kiểm tra.
 
-\## Lưu ý
+\- Bộ truy vấn Cypher cơ bản và nâng cao đã chạy thành công.
 
-
-
-Không đưa mật khẩu, thông tin đăng nhập hoặc dữ liệu nhạy cảm vào GitHub. Các truy vấn đề xuất chỉ là đầu vào cho bước phân tích và tích hợp ứng dụng.
-
-
-
+\- Ảnh chụp minh chứng trên Memgraph Lab.
