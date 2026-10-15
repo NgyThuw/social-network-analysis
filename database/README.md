@@ -1,11 +1,8 @@
-
-
-# Database - Memgraph
-
-## Mục tiêu
+## Database - Memgraph
+### Mục tiêu
 Xây dựng và quản lý cơ sở dữ liệu đồ thị phục vụ việc phân tích mạng lưới quan hệ xã hội và đề xuất kết nối bạn bè.
 
-## Công việc
+### Công việc
 1. Tìm hiểu Memgraph, Memgraph Lab và ngôn ngữ truy vấn Cypher.
 2. Tải và kiểm tra bộ dữ liệu Facebook Social Circles.
 3. Xác định cách biểu diễn người dùng và quan hệ bạn bè.
@@ -17,7 +14,7 @@ Xây dựng và quản lý cơ sở dữ liệu đồ thị phục vụ việc p
 9. Chuẩn bị các truy vấn cơ bản và nâng cao chạy trực tiếp trên Memgraph Lab.
 10. Lưu lại kết quả truy vấn, ảnh chụp và hướng dẫn thực hiện.
 
-## Mô hình dữ liệu dự kiến
+### Mô hình dữ liệu dự kiến
 - Node: `Person`, đại diện cho một người dùng.
 - Relationship: `FRIEND`, biểu diễn mối quan hệ bạn bè.
 - Thuộc tính node: `id`, định danh người dùng trong bộ dữ liệu.
@@ -25,14 +22,14 @@ Mô hình cơ bản:
 `(:Person)-\[:FRIEND]-(:Person)`
 Quan hệ được xem là hai chiều đối với bộ dữ liệu kết nối bạn bè vô hướng. Cần thống nhất cách lưu và truy vấn để tránh đếm trùng kết nối.
 
-## Truy vấn cần chuẩn bị
+### Truy vấn cần chuẩn bị
 - Đếm số người dùng.
 - Đếm số quan hệ bạn bè.
 - Tìm người dùng có nhiều kết nối.
 - Tìm các bạn chung giữa hai người dùng.
 - Tìm các cặp người dùng chưa kết nối nhưng có bạn chung.
 
-## Sản phẩm bàn giao
+### Sản phẩm bàn giao
 - Hướng dẫn cài đặt và chạy Memgraph.
 - Script nhập dữ liệu.
 - File truy vấn Cypher.
