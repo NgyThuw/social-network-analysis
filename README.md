@@ -12,12 +12,11 @@ Thay vì chỉ lưu dữ liệu dưới dạng bảng, dự án biểu diễn ng
 - Tích hợp các chức năng vào ứng dụng demo đơn giản.
 
 ### 3. Công nghệ sử dụng
-- \*\*Memgraph:\*\* Lưu trữ và truy vấn dữ liệu đồ thị.
-- \*\*Memgraph Lab:\*\* Trực quan hóa và khám phá mạng lưới.
-- \*\*Cypher:\*\* Truy vấn các nút và mối quan hệ.
-- \*\*Python:\*\* Xử lý dữ liệu, phân tích mạng lưới và xây dựng thuật toán đề xuất.
-- \*\*Flask và HTML/CSS/JavaScript:\*\* Xây dựng giao diện demo nếu nhóm chọn phương án này.
-- \*\*Git và GitHub:\*\* Quản lý mã nguồn và phối hợp nhóm.
+- **Memgraph:** Lưu trữ và truy vấn dữ liệu đồ thị.
+- **Memgraph Lab:** Trực quan hóa và khám phá mạng lưới.
+- **Cypher:** Truy vấn các nút và mối quan hệ.
+- **Python:** Xử lý dữ liệu, phân tích mạng lưới và xây dựng thuật toán đề xuất.
+- **Flask và HTML/CSS/JavaScript: (có thể sử dụng ngôn ngữ khác)** Xây dựng giao diện demo nếu nhóm chọn phương án này.
 
 ### 4. Dữ liệu
 Dự kiến sử dụng bộ dữ liệu Facebook Social Circles của Stanford SNAP:
