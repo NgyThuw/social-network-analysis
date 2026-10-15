@@ -33,9 +33,9 @@ Dữ liệu biểu diễn các kết nối giữa người dùng. Nhóm cần ki
 6. Trực quan hóa một phần mạng lưới trong Memgraph Lab hoặc giao diện demo.
 
 ### 6. Phân công công việc
-- \*\*Thành viên 1:\*\* Tìm hiểu Memgraph, xử lý dữ liệu đầu vào, thiết kế mô hình đồ thị và xây dựng các truy vấn cơ sở dữ liệu.
-- \*\*Thành viên 2:\*\* Phân tích mạng lưới, tính toán các chỉ số và xây dựng thuật toán đề xuất bạn bè.
-- \*\*Thành viên 3:\*\* Thiết kế giao diện, xây dựng ứng dụng demo và tích hợp các chức năng.
+- **Thành viên 1:** Tìm hiểu Memgraph, xử lý dữ liệu đầu vào, thiết kế mô hình đồ thị và xây dựng các truy vấn cơ sở dữ liệu.
+- **Thành viên 2:** Phân tích mạng lưới, tính toán các chỉ số và xây dựng thuật toán đề xuất bạn bè.
+- **Thành viên 3:** Thiết kế giao diện, xây dựng ứng dụng demo và tích hợp các chức năng.
 Các thành viên phối hợp để thống nhất định dạng dữ liệu, đầu ra của từng module và nội dung báo cáo.
 
 ### 7. Giới hạn
